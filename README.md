@@ -5,7 +5,7 @@ Software Developer and Tester
 -----------------------------
 
 *   🌍  I'm based in Hat Yai, Thailand
-*   ✉️  You can contact me at [tunpisit.smsw@gmail.com](mailto:tunpisit.smsw@gmail.com)
+
   <a href="https://www.github.com/hourdome" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/hourdome?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   <a href="https://www.twitch.tv/hourdome" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/hourdome?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
